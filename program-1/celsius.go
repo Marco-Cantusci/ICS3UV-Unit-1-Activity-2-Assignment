@@ -27,6 +27,9 @@ func main() {
 
 	fmt.Println("F = " + fmt.Sprint(61.2+32))
 
+	// final statement
+	fmt.Println("34 Celsius is 93.2 Fahrenheit.")
+
 	fmt.Println("\nDone.")
 
 }

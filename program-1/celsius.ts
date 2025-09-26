@@ -23,4 +23,7 @@ console.log("F = " + (1.8*34) + " + 32")
 
 console.log("F = " + (61.2 + 32))
 
+// final statement
+console.log("34 Celsius is 93.2 Fahrenheit.")
+
 console.log("\nDone.")
