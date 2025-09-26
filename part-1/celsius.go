@@ -20,7 +20,7 @@ func main() {
 	// put information into the variables
 	fmt.Println("F = 9 / 5 * 34 + 32")
 
-	// solve
+	// solve the problem
 	fmt.Println("F = " + fmt.Sprint(9.0/5.0) + " * 34 + 32")
 
 	fmt.Println("F = " + fmt.Sprint(1.8*34) + " + 32")

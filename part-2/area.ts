@@ -14,7 +14,7 @@ console.log("A = pi * r * r")
 // enter in known information
 console.log("A = 3.14 * 14 * 14")
 
-// solve
+// solve the problem
 console.log("A = " + (3.14*14) + " * 14")
 
 console.log("A = " + (43.96*14))

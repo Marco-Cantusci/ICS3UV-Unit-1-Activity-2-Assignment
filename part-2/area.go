@@ -20,7 +20,7 @@ func main() {
 	// put in known variables
 	fmt.Println("A = 3.14 * 14 * 14")
 
-	// solve
+	// solve the problem
 	fmt.Println("A = " + fmt.Sprint(3.14*14) + " * 14")
 
 	fmt.Println("A = " + fmt.Sprint(43.96*14))
